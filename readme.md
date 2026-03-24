@@ -10,9 +10,9 @@
 
 
 #### Github Stats
-<a href="https://github.com/dheanka" style="text-decoration: none">
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 565px;">
-        <img width="275px" src="https://github-readme-stats.vercel.app/api?username=dheanka&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
-        <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheanka&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    </div>
+<a href="https://github.com/dheanka">
+    <p style="display:flex; gap: 2px">
+        <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheanka&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+        <img width="320px" src="https://github-readme-stats.vercel.app/api?username=dheanka&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
+    </p>
 </a>
